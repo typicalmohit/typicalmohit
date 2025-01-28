@@ -1,3 +1,4 @@
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 <h1>Hi 👋, I'm mohit. I am a passionate full stack developer</h1>
 <p>A passionate frontend developer from </p>
 <h2>🚀 Languages and Tools I Use</h2>
